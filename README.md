@@ -46,8 +46,9 @@ wget --no-check-certificate -O Shirley.bin https://raw.githubusercontent.com/shi
 * 此脚本仅用适用于测试学习，不可用于非法或商业用途，严禁用于任何违法违规用途
 * 此jio本由Shirley原创编写，已适配CentOS7系统，感谢以下开源项目(daloradius、freeradius、openvpn)
 * 所有文件已开源，欢迎检查，没有任何后门，不放心的请不要用，不要用！不要用！不要用！！ 谢谢！
-## 其他说明
+## 更新说明
 * 此jio本 OpenVPN Proxy Core使用的是FAS3.0的版本。
+* 本流控不在兼容旧版本DALO的线路证书和密钥，更新的原因是旧版DALO的证书和密钥即将到期，本流控证书直接开了100年，用一辈子~
 ## 温馨提醒
 * 脚本资源下载地址请搜索变量关键词 Download_Host 自行替换！
 * 脚本资源下载地址请搜索变量关键词 Download_Host 自行替换！
